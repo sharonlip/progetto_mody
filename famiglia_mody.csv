@@ -1,6 +1,6 @@
-ID,Eta,BMI,Mutazione,Glicemia_media,HbA1c,Categoria
-Padre, 45, 27.3, Presente, 130, 6.8, Portatore
-Madre, 43, 24.8, Assente, 95, 5.3, Sano
-Figlio (caso indice), 18,22.5,Presente,115,6.1,Malato
-Fratello,15,20.1,Assente,90,5.1,Sano
-Sorella, 20,21.7,Presente,110,5.9,Portatore
+ID,Eta,BMI,Mutazione,Glicemia_media,HbA1c,Colesterolo,Categoria
+Padre, 45, 27.3, Presente, 130, 6.8, 210,Portatore
+Madre, 43, 24.8, Assente, 95, 5.3,170, Sano
+Figlio (caso indice), 18,22.5,Presente,115,6.1,190,Malato
+Fratello,15,20.1,Assente,90,5.1,177,Sano
+Sorella, 20,21.7,Presente,110,5.9,195,Portatore
